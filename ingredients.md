@@ -1,4 +1,4 @@
-# SrNo |Ingredients
+ SrNo |Ingredients
 ----------------|-----------------
 1 | Olive oil
 2 |Bell peppers or onions
